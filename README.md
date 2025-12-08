@@ -1,5 +1,7 @@
 # SuccessiveConcessions
-Successive Concessions Method Java. 
+Successive Concessions Method Java. (Interface: RU)
+
+![Screenshot](2025-03-20.png)
 
 [Simplex method](https://github.com/Developonz/SimplexMethod)
 
